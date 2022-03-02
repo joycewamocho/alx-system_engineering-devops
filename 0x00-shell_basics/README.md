@@ -10,4 +10,6 @@ file 4-listmorefiles displays  current directory content, including hidden files
 
 file 5-listfiledigitonly displays current directory content in long format,with user and group IDs displayed numerically and hidden files
 
+File 6-firstdirectory creates a script that creates a directory named holberton in the /tmp/directory
+
 
