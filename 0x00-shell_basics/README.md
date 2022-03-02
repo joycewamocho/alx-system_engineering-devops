@@ -20,3 +20,5 @@ file 9-deletion delete the directory my_first_directory that is in /tmp director
 
 file 10-back writes a script that changes the working directory to the previous one
 
+file 11-list writes a script that lists all files in the current directory and the /boot directory,in the long format
+
