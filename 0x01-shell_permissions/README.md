@@ -16,3 +16,5 @@ file 7_everybody adds execution permission to the owner,the group owner and othe
 
 file 8-James_Bond sets the permission to the file hello asowner,group,other users
 
+file 9-John_Doe sets the mode of the file hello.
+
