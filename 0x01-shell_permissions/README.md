@@ -26,5 +26,6 @@ file 12-directory_permissions creates a directory called my_dir with permissions
 
 file 13-change_group changes the group owner to school for the file hello
 
+file 100-change_owner_and_groupchanges the owner to vincent and the group owner to staff for all the files and directories in the working directory
 
 
