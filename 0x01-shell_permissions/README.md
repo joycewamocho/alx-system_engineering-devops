@@ -20,3 +20,8 @@ file 9-John_Doe sets the mode of the file hello.
 
 file 10-mirror_permissions sets the mode of the file hello the sanme as olleh's mode.
 
+file 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner,the group owner  and all other users
+
+
+
+
