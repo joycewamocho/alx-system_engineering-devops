@@ -6,5 +6,6 @@ file 2-groups prints all the group s the current user is part of
 
 file 3-new_owner changes the owner of the file hello to the user betty.
 
+file 4-empty writes a script that creates an empty file called hello
 
 
