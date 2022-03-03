@@ -4,6 +4,7 @@ file 1-wh0_am_ prints the effective username of current user
 
 file 2-groups prints all the group s the current user is part of
 
+file 3-new_owner changes the owner of the file hello to the user betty.
 
 
 
