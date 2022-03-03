@@ -22,6 +22,10 @@ file 10-back writes a script that changes the working directory to the previous 
 
 file 11-list writes a script that lists all files in the current directory and the /boot directory,in the long format
 
+file 12-file_type writes a script that prints the type of the file named iamafile
+
 file 13-symbolic_link creates a symbolic link to /bin/ls,named ls.
 
-file 12-file_type writes a script that prints the type of the file named iamafile
+file 14-copy_html creates a script that copees all the Html files from the current working directory to the working directory to the parent of working directory.
+
+
