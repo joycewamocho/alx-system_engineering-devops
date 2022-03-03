@@ -30,7 +30,8 @@ file 14-copy_html creates a script that copees all the Html files from the curre
 
 100-lets_move creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 
-  101-clean_emacs creates script that deletes all files in the current working directory that end with the character ~.
-   
-  
+file 101-clean_emacs creates script that deletes all files in the current working directory that end with the character ~.
+
+file 102-tree  creates a script that creates a script that creates the direcory welcome/, welcome/to/ and welcome/to/school in the current directory
+     
   
