@@ -8,4 +8,5 @@ file 3-new_owner changes the owner of the file hello to the user betty.
 
 file 4-empty writes a script that creates an empty file called hello
 
+file 5-execute adds executed permission to the owner of file hello
 
