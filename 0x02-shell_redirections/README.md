@@ -42,5 +42,8 @@ file 20-hiago Creates a script that removes all letters c and C from input.
 
 file 21-reverse Write a script that reverse its input.
 
+file 22-users_and_homes Write a script that displays all users and their home directories, sorted by users.
+
+
 
  
