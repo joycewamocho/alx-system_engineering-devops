@@ -12,3 +12,5 @@ file 5-firstlines display 10 first lines of /etc/passwd
 
 file 6-third_line displays the third line of iacta
 
+file 7-file creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
