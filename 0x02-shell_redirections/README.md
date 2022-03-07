@@ -48,4 +48,7 @@ file 100-empty_casks  Write a command that finds all empty files and directories
 
 file 101-gifs Write a command that finds all empty files and directories in the current directory and all sub-directories.
 
+file 102-acrostic Create a script that decodes acrostics that use the first letter of each line.
+
+
  
