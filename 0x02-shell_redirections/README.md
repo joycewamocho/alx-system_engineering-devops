@@ -46,4 +46,6 @@ file 22-users_and_homes Write a script that displays all users and their home di
 
 file 100-empty_casks  Write a command that finds all empty files and directories in the current directory and all sub-directories.
 
+file 101-gifs Write a command that finds all empty files and directories in the current directory and all sub-directories.
+
  
