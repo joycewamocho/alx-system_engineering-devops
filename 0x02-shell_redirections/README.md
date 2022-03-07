@@ -40,5 +40,7 @@ file 19-AZ Replace  all characters A and c from input to Z and e respectively.
  
 file 20-hiago Creates a script that removes all letters c and C from input.
 
+file 21-reverse Write a script that reverse its input.
+
 
  
