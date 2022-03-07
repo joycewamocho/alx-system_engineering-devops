@@ -8,4 +8,5 @@ file 3-twofiles adds /etc/passwd and /etc/hosts
 
 file 4-lastlines display 10 last lines of /etc/passwd
 
+file 5-firstlines display 10 first lines of /etc/passwd
 
