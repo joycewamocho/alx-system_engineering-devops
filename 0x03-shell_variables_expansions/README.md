@@ -22,4 +22,4 @@ file 8-true_knowledge Write a script that prints the result of the defidition of
 
 file 9-divide_and_rule Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
- 
+file 10-love_exponent_breath  Write a script that displays the result of BREATH to the power LOVE
