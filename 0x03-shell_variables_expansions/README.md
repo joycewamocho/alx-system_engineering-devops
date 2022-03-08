@@ -6,5 +6,8 @@ file 2-path Add /action to the PATH. /action should be the last directory the sh
 
 file 3-paths Create a script that counts the number of directories in the PATH.
  
+file 4-global_variables Create a script that lists environment variables.
+
+
  
 
