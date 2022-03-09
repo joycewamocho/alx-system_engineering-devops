@@ -41,3 +41,6 @@ The script should display the number in base 16, followed by a new line
 
 file 101-rot13 Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII
 
+file 102-odd Write a script that prints every other line from the input, starting with the first line.
+
+
